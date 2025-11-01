@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini VPN Connect",
+  "description": "A sleek, modern VPN application interface that allows users to simulate connecting to servers in various countries. It includes an AI-powered feature using the Gemini API to suggest the optimal server based on user needs.",
+  "requestFramePermissions": []
+}
